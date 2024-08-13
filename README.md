@@ -5,3 +5,6 @@ This is a casual web template made up of only html and css.
 You can learn how to make a very simple website.
 # SEO FRIENDLY
 It is also seo friendly. You can learn also how to do seo in your websites.
+
+#EDIT
+When creating this i was a begineer so don't judge me
